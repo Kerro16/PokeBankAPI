@@ -1,0 +1,31 @@
+# Archivos de construcción
+/target/
+/build/
+
+# Archivos de entorno
+.env
+
+# IDEs comunes
+.idea/
+*.iml
+*.log
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración
+*.class
+*.jar
+*.war
+
+# Archivos temporales
+*.swp
+*.tmp
+
+# Archivos de configuración específicos
+*.db
+
+# Archivos de configuracion
+*.env
