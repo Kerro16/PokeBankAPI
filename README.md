@@ -31,7 +31,7 @@ Create a web-based platform to serve as a secure and advanced Pokémon repositor
 
 ## 👨‍💻 Author
 
-Project developed by **Kevin**, passionate about development, reverse engineering, and Pokémon fangames. This bank isn’t just a tool—it’s a true extension of a trainer’s team and legacy.
+Project developed by **Kerro**, passionate about development, reverse engineering, and Pokémon fangames. This bank isn’t just a tool—it’s a true extension of a trainer’s team and legacy.
 
 ## 📜 License
 
